@@ -1,0 +1,13 @@
+# Banco de dados
+*.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Ambientes locais e configs
+.env
+.flaskenv
+
+# Outros
+*.sqlite3
